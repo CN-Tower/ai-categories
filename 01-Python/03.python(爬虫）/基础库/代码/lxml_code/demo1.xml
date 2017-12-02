@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<dblp>
+       <article mdate="2012-11-28" key="journals/entropy/BellucciFMY08">
+        <author>Stefano Bellucci</author>
+        <author>Sergio Ferrara</author>
+        <author>Alessio Marrani</author>
+        <author>Armen Yeranyan</author>
+        <title>ES<sup>2</sup>: A cloud data storage system for supporting both OLTP and OLAP.</title>
+        <pages>507-555</pages>
+        <year>2008</year>
+        <volume>10</volume>
+        <journal>Entropy</journal>
+        <number>4</number>
+        <ee>http://dx.doi.org/10.3390/e10040507</ee>
+        <url>db/journals/entropy/entropy10.html#BellucciFMY08</url>
+    </article>
+    <article mdate="2013-03-04" key="journals/entropy/Knuth13">
+        <author>Kevin H. Knuth</author>
+        <title><i>Entropy</i> Best Paper Award 2013.</title>
+        <pages>698-699</pages>
+        <year>2013</year>
+        <volume>15</volume>
+        <journal>Entropy</journal>
+        <number>2</number>
+        <ee>http://dx.doi.org/10.3390/e15020698</ee>
+        <url>db/journals/entropy/entropy15.html#Knuth13</url>
+    </article>
+</dblp>
