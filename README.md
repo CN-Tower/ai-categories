@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="http://ng.ant.design">
-    <img width="100%" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1512705458&di=2cc34609b466703381ada92c3c87252c&imgtype=jpg&er=1&src=http%3A%2F%2Fimg2.jiemian.com%2Fjiemian%2Foriginal%2F20170228%2F14882699943586100_a580xH.jpg">
-  </a>
+  <img width="100%" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1512705458&di=2cc34609b466703381ada92c3c87252c&imgtype=jpg&er=1&src=http%3A%2F%2Fimg2.jiemian.com%2Fjiemian%2Foriginal%2F20170228%2F14882699943586100_a580xH.jpg">
 </p>
 
 # AI-Box（人工智能资料盒）
